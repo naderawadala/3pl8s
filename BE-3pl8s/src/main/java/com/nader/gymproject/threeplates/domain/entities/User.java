@@ -1,4 +1,4 @@
-package com.nader.gymproject.threeplates.entities;
+package com.nader.gymproject.threeplates.domain.entities;
 
 import jakarta.persistence.*;
 import lombok.Getter;
